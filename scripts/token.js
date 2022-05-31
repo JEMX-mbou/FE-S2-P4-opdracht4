@@ -1,1 +1,1 @@
-const token = "[paste token here]";
+const token = "";
